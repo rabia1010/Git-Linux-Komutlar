@@ -1,4 +1,4 @@
-Başlık cd : dizin değiştirme komutu ([] köşeli parantez oraya birşey yazmalısın anlamına gelir)
+# cd : dizin değiştirme komutu ([] köşeli parantez oraya birşey yazmalısın anlamına gelir)
 cd [dizin ismi] :dizin ismi dizinine gider
 cd .. : Bir üst dizine gider
 cd . : içinde bulunduğumuz dizinde kalır
